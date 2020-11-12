@@ -12,7 +12,7 @@ module.exports = {
       statements: -5
     }
   },
-  preset: isBrowser
+  preset: isBrowserlksdjflksdjf
     ? 'jest-puppeteer'
     : undefined,
   reporters: isActions
