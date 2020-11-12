@@ -36,6 +36,8 @@ After you're happy with the proposed changes, you can merge the pull request. If
 
 {% data reusables.pull_requests.close-issues-using-keywords %}
 
+Cool bruv
+
 {% tip %}
 
 **Tips:**
